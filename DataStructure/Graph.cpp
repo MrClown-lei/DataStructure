@@ -16,7 +16,7 @@ typedef struct
 
 
 //图的邻接表存储结构
-
+//first
 
 
 //表结点
